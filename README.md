@@ -1,7 +1,7 @@
 ##  👋 Hey, I'm Dharmesh Makvana !
 
 ⚡ I’m a Freelance Roboticist who enjoys turning ideas into real robots   
-🤖 I like exploring, building, and learning through different robotic projects   
+🤖 I like exploring, building, and learning through different robotic & AI projects   
 
 🌍 Exploring new places  
 🍜 Trying new food  
