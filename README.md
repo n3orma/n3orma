@@ -1,11 +1,12 @@
-##  👋 Hey, I'm Dharmesh Makvana !
+## 👋 Hey, I'm Dharmesh Makvana!
 
-⚡ I’m a Freelance Roboticist who enjoys turning ideas into real robots   
-🤖 I like exploring, building, and learning through different robotic & AI projects   
+🔬 I’m an Independent Researcher, driven by curiosity and a love for figuring out how things work.
+⚙️ I enjoy chasing interesting questions, experimenting with ideas, and turning some of those *“what if?”* moments into things that actually work.
+🤖 Mostly exploring **robotics, AI, and whatever sparks my curiosity next.**
 
-🌍 Exploring new places  
-🍜 Trying new food  
-🌃 Enjoying quiet moments  
-🎬 Anime is my favourite escape  
+🌍 Exploring new places makes me feel alive
+🍜 Good food makes the journey better
+🌃 I find peace in quiet nights
+🎬 And sometimes, anime is all the escape I need
 
-🤝 Open to ideas, collaborations, and meaningful conversations over tea ☕  
+🤝 Always open to curious minds, wild ideas, meaningful collaborations, or simply a good conversation over tea ☕
